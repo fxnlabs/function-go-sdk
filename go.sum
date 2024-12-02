@@ -1,0 +1,8 @@
+buf.build/gen/go/fxnlabs/api-gateway/connectrpc/go v1.17.0-20241119193538-3b4c29925751.1 h1:DG6xnTgYLXbSvtq5OGb1GjUw4qRQ+iV2Ix6XIDsVB8M=
+buf.build/gen/go/fxnlabs/api-gateway/connectrpc/go v1.17.0-20241119193538-3b4c29925751.1/go.mod h1:pXGRL0j4Hp3yxSl/QcOOy0hSdKy7JYy+mxcblPlOe08=
+buf.build/gen/go/fxnlabs/api-gateway/protocolbuffers/go v1.34.2-20241119193538-3b4c29925751.2 h1:cMR+ZeHfs8bOFsSvw561wrh4F/LvSh/vwSJds79Z69o=
+buf.build/gen/go/fxnlabs/api-gateway/protocolbuffers/go v1.34.2-20241119193538-3b4c29925751.2/go.mod h1:7nMbTEzvNpG/tR6RtVcSOJ9GwjhtoyF9YnZSVL3EtTs=
+connectrpc.com/connect v1.17.0 h1:W0ZqMhtVzn9Zhn2yATuUokDLO5N+gIuBWMOnsQrfmZk=
+connectrpc.com/connect v1.17.0/go.mod h1:0292hj1rnx8oFrStN7cB4jjVBeqs+Yx5yDIC2prWDO8=
+google.golang.org/protobuf v1.34.2 h1:6xV6lTsCfpGD21XK49h7MhtcApnLqkfYgPcdHftf6hg=
+google.golang.org/protobuf v1.34.2/go.mod h1:qYOHts0dSfpeUzUFpOMr/WGzszTmLH+DiWniOlNbLDw=
